@@ -1,1 +1,1 @@
-# rock-paper-scissors
+rps part of The Odin Project
