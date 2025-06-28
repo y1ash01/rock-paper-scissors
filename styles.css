@@ -1,0 +1,35 @@
+body{
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #1e1e1e;
+    color: #f1f1f1;
+    display:flex;
+    flex-direction: column;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    margin: 40px 8px;
+}
+
+.buttons{
+    display:flex;
+    justify-content: center;
+    gap:40px;
+    margin:40px 8px;
+}
+
+button{
+    height:200px;
+    width:400px;
+    font-size: xx-large;
+}
+
+.output{
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    gap:100px;
+}
